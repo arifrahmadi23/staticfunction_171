@@ -7,6 +7,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "staticfunction_171", "stati
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "mbrStaticfunction", "mbrStaticfunction\mbrStaticfunction.vcxproj", "{6642F013-6CD5-4A2E-A058-647E3B3F0328}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "konstruktor", "konstruktor\konstruktor.vcxproj", "{9E581873-BA56-486C-BA7D-20D9FD056383}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -31,6 +33,14 @@ Global
 		{6642F013-6CD5-4A2E-A058-647E3B3F0328}.Release|x64.Build.0 = Release|x64
 		{6642F013-6CD5-4A2E-A058-647E3B3F0328}.Release|x86.ActiveCfg = Release|Win32
 		{6642F013-6CD5-4A2E-A058-647E3B3F0328}.Release|x86.Build.0 = Release|Win32
+		{9E581873-BA56-486C-BA7D-20D9FD056383}.Debug|x64.ActiveCfg = Debug|x64
+		{9E581873-BA56-486C-BA7D-20D9FD056383}.Debug|x64.Build.0 = Debug|x64
+		{9E581873-BA56-486C-BA7D-20D9FD056383}.Debug|x86.ActiveCfg = Debug|Win32
+		{9E581873-BA56-486C-BA7D-20D9FD056383}.Debug|x86.Build.0 = Debug|Win32
+		{9E581873-BA56-486C-BA7D-20D9FD056383}.Release|x64.ActiveCfg = Release|x64
+		{9E581873-BA56-486C-BA7D-20D9FD056383}.Release|x64.Build.0 = Release|x64
+		{9E581873-BA56-486C-BA7D-20D9FD056383}.Release|x86.ActiveCfg = Release|Win32
+		{9E581873-BA56-486C-BA7D-20D9FD056383}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
